@@ -1,0 +1,32 @@
+::ng-deep .dropdown:hover .dropdown-menu {
+    display: block;
+  }
+  ::ng-deep .title{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  ::ng-deep .title-cls{
+ 
+    width: 100%;
+    border-radius: 5px;
+  }
+  ::ng-deep .nav-cls{
+    width: 100%;
+  }
+ ::ng-deep 
+    .p-listbox-list{
+        background: black;
+        color: white;
+    }
+    ::ng-deep .p-listbox .p-listbox-list .p-listbox-item{
+        color:white;
+    }
+  ::ng-deep .radio-cls{
+    padding-top: 11px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start; 
+    color:white     
+  }
+  ::ng-deep .listbox-cls{
+    padding-top: 17px;
+  }
